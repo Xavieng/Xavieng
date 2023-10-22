@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Xavieng
-- 👀 I’m interested in languaje Python
+- 👋 Hi, I’m @Xavier
+- 👀 I’m interested in programation
 - 🌱 I’m currently learning languaje Python
-- 💞️ I’m looking to collaborate on my life
-- 📫 How to reach me love
+- 💞️ I’m looking to collaborate with for me
+- 📫 How to reach me por Instagram xaxicaiza
 
 <!---
 Xavieng/Xavieng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
